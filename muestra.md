@@ -2,13 +2,13 @@
 
 ## Python
 
-```python
+````python
 def greet(name):
     print(f"Hello, {name}!")
 
 greet("John")
-```
-´´´
+````
+´´´´
 
  ## HTML
 <!DOCTYPE html>
@@ -22,4 +22,4 @@ greet("John")
     <h1>Hello, World!</h1>
 </body>
 </html>
-´´´
+´´´´
